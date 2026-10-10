@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I211
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<InnoVibe>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|      Role       |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    Hostel/Day-Scholar       |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------------------:| 
+|   Team Leader   |Shivani S N              |CB.SC.U4CSE26456        |female           |B.tech - CSE                     |Hosteller(Mythreyi Bhavanam) |  
+|    Member 2     |Shruti Ramesh            |CB.SC.U4CSE26458        |female           |B.tech - CSE                     |Hosteller(Mythreyi Bhavanam) |  
+|    Member 3     |Siddhaarthan S           |CB.SC.U4CSE26459        |male             |B.tech - CSE                     |Hosteller(Kashyapa Bhavanam) |  
+|    Member 4     |Shrisharvesh S V         |CB.SC.U4CSE26457        |male             |B.tech - CSE                     |Hosteller(Kashyapa Bhavanam) |   
 

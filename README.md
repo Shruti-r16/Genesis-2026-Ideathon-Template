@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I211
 ### Team Details
-#### **Team Name** <<InnoVibe>> <br/>
+#### **InnoVibe** <<TeamName>> <br/>
 #### Team Members
 |      Role       |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    Hostel/Day-Scholar       |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------------------:| 
